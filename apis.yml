@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/kkbox.png
 name: KKBOX
 description: "Get music libraries, playlists, charts, and perform out of KKBOX's platform"
 url: https://developer.kkbox.com
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
