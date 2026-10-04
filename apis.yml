@@ -39,7 +39,6 @@ apis:
   - name: KKBOX
     description: "Get music libraries, playlists, charts, and perform out of KKBOX's platform"
     humanURL: https://developer.kkbox.com
-    baseURL: https://developer.kkbox.com
     tags:
       - Music
     properties:
